@@ -17,7 +17,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.ifpi.co.il/')
 
-WebUI.setText(findTestObject('Object Repository/Page_/input_ _artist'), 'שלמה ארצי')
+WebUI.setText(findTestObject('Object Repository/Page_/input_ _artist'), 'אריק לביא')
 
 WebUI.click(findTestObject('Object Repository/Page_/img'))
 

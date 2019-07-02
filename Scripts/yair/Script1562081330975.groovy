@@ -17,5 +17,7 @@ WebUI.openBrowser(null)
 
 WebUI.navigateToUrl('https://www.ifpi.co.il/')
 
+println("hello")
+
 WebUI.delay(2000)
 
